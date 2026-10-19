@@ -1,108 +1,111 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- BANNER CYBERPUNK / PENTESTING -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF66,100:003311&height=200&section=header&text=0x_MATIAS&fontSize=42&fontAlignY=40&fontColor=ffffff&desc=Ethical%20Hacker%20%7C%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=62&descColor=00FF66" width="100%"/>
+<!-- HEADER CYBERPUNK -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF66,100:002B0F&height=220&section=header&text=0x_MATIAS&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=%3C%20Ethical%20Hacker%20%2F%20Penetration%20Tester%20%2F%20Red%20Teamer%20%2F%3E&descAlignY=62&descColor=00FF66" width="100%"/>
 
-<!-- TYPING TERMINAL EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=650&height=70&lines=%5B%2B%5D+Ethical+Hacker+%26+Offensive+Security+Enthusiast;%5B%2B%5D+Penetration+Testing+%26+Vulnerability+Research;%5B%2B%5D+Building+tools+to+break+and+secure+systems..." alt="Typing SVG" />
+<!-- TERMINAL TYPING EFFECT -->
+<a href="https://github.com/MatiasWhite-Hat">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&multiline=true&width=700&height=100&lines=root%40matias-sec%3A~%23+whoami;%3E+0x_MATIAS+%7C+Offensive+Security+%26+Penetration+Tester;root%40matias-sec%3A~%23+nmap+-sC+-sV+-p-+target.network;%3E+Scanning+infrastructure+for+vulnerabilities...;root%40matias-sec%3A~%23+python3+exploit.py+--stealth;%3E+PoC+Verified.+Building+tools+to+break+and+secure+systems." alt="Terminal Typing" />
 </a>
 
 </div>
 
 ---
 
-# Sobre mi : 
+### 💀 `[ SYSTEM://PROFILE_INITIALIZED ]`
 
-¡Bienvenido a mi perfil de GitHub! 💻🛡️
+<div align="center">
+  <img width="260px" src="./PixelSkull.gif" alt="Pixel Skull Pentester" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=MatiasWhite-Hat&style=flat-square&color=00ff66" alt="Profile Views" />
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/MatiasWhite-Hat?style=social" />
+</div>
 
-Soy **Matias**, apasionado de la **ciberseguridad ofensiva, el pentesting y la investigación de vulnerabilidades**. Me dedico a crear herramientas automatizadas para facilitar tareas de seguridad, auditar aplicaciones y sistemas, y resolver retos de CTFs y laboratorios.
+<br/>
 
-> ⚠️ **Aviso de responsabilidad:** Todo el contenido, herramientas y pruebas de concepto (PoC) publicadas en este perfil tienen un propósito estrictamente educativo y de investigación en seguridad defensiva/ética. No me responsabilizo del mal uso que terceros puedan darle a este material.
+```bash
+┌──(root㉿matias-sec)-[~]
+└─# cat /etc/motd
+═══════════════════════════════════════════════════════════════════════
+[+] IDENT:     Matías | 0x_MATIAS
+[+] ROLE:      Penetration Tester & Ethical Hacker
+[+] SPECIALTY: Web App Pentesting, Network Audits & Exploit Research
+[+] WEAPONS:   Python, Bash, PowerShell, C++, Kali Linux, Burp Suite
+[+] STATUS:    Hunting bugs, building security tools & pwning CTFs
+[+] MOTTO:     "Break to understand. Exploit to protect."
+═══════════════════════════════════════════════════════════════════════
+```
 
-<p align="center">
-  <img width="260px" src="https://media.giphy.com/media/YkXnjAkG7SyHz6IVlW/giphy.gif" alt="Pixel Skull Pentester">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatiasWhite-Hat&style=flat-square&color=00ff66" alt="Profile Views">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MatiasWhite-Hat?style=social">
-</p>
+> ⚠️ **Aviso Ético / Disclaimer:** Todo el código, herramientas y pruebas de concepto (PoC) en este perfil han sido desarrollados con propósitos exclusivamente educativos, auditorías autorizadas e investigación de seguridad defensiva/ética.
 
 ---
 
-# Sociales :
+### 🌐 `[ CHANNELS & COMMS ]`
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
   </a>
   <a href="https://hackthebox.com">
-    <img src="https://img.shields.io/badge/HackTheBox-%23111927.svg?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="HackTheBox"/>
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="HackTheBox" />
   </a>
 </p>
 
-Estas son mis plataformas y redes donde comparto proyectos, laboratorios y contenido técnico.
+<div align="center">
+  <img width="260px" src="./PixelCode.gif" alt="Pixel Code Terminal" />
+</div>
 
-<p align="center">
-  <img width="260px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Pixel Code">
+---
+
+### ⚔️ `[ OFFENSIVE ARSENAL & TOOLKIT ]`
+
+#### 🛰️ Sistemas & Laboratorios
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Parrot_OS-02BED0?style=for-the-badge&logo=parrot-security&logoColor=white" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+#### ⚡ Herramientas de Pentesting & Explotación
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### 💻 Lenguajes & Scripting Ofensivo
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ---
 
-# Arsenal & Tecnologías :
+### 📊 `[ TELEMETRY & ACTIVITY ]`
 
-### 🛡️ Sistemas & Laboratorios
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-02BED0?style=for-the-badge&logo=parrot-security&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### ⚔️ Herramientas Ofensivas & Pentesting
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=nmap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Lenguajes & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasWhite-Hat&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=98c379&icon_color=00FF66&border_color=003311&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasWhite-Hat&background=0D1117&border=003311&stroke=003311&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=98c379&dates=8b949e" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasWhite-Hat&bg_color=0D1117&title_color=00FF66&text_color=98c379&border_color=003311&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
-# Estadísticas :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasWhite-Hat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasWhite-Hat&theme=tokyonight&hide_border=false" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasWhite-Hat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-# Trofeos :
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatiasWhite-Hat&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-# Contribuciones :
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MatiasWhite-Hat&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributions" />
-</p>
-
----
+<div align="center">
+  <sub>⚡ <b>0x_MATIAS</b> // Security Researcher & Ethical Hacker // Designed with terminal aesthetic ⚡</sub>
+</div>
